@@ -1,0 +1,11 @@
+name: SPAS
+main: sa.bugsy.spas.spas
+author: BugSpreader
+version: 1.0
+description: A very Simple Player Authentication System plugin
+
+commands:
+    password:
+        description: Password set or Player authentifier
+        permission: spas.password
+        usage: /<command> [your_password]
